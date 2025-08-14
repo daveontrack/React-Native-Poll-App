@@ -1,6 +1,6 @@
-# 📊 React Native Poll App
+# 📊 React Native Poll-Voting App
 
-> A **beautiful, fast, and real-time** polling app built with **React Native** (Frontend) and **Supabase** (Backend). Create polls, vote anonymously, and watch results update live.
+> A **beautiful, fast, and real-time** poll-Voting app built with **React Native** (Frontend) and **Supabase** (Backend). Create polls, vote anonymously, and watch results update live.
 
 ![React Native](https://img.shields.io/badge/React%20Native-0.7x-blue?style=for-the-badge\&logo=react)
 ![Supabase](https://img.shields.io/badge/Supabase-Realtime%20DB-green?style=for-the-badge\&logo=supabase)
