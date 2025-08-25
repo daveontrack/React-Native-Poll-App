@@ -29,7 +29,6 @@ It’s designed for **simplicity**, **speed**, and **real-time engagement**.
 * **🔒 Supabase Auth:** Simple login & user management
 * **🎨 Clean UI:** Built with React Native components
 * **📊 Live results:** Visualized directly in the app
-
 ---
 
 ## 🛠 Tech Stack
@@ -41,7 +40,6 @@ It’s designed for **simplicity**, **speed**, and **real-time engagement**.
 | **State**      | React Context / Redux (your choice)             |
 | **Navigation** | React Navigation                                |
 | **Styling**    | NativeWind / Styled Components / RN Stylesheets |
-
 ---
 
 ## 📦 Installation
@@ -57,9 +55,7 @@ cd React-Native-Poll-App
 
 ```bash
 npm install
-# or
-yarn install
-```
+
 
 ### 3️⃣ Setup Supabase
 
@@ -93,9 +89,6 @@ Or for bare RN:
 
 ```bash
 npx react-native run-android
-# or
-npx react-native run-ios
-```
 
 ---
 
